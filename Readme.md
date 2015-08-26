@@ -1,3 +1,6 @@
+THIS IS A WORK IN PROGRESS. 
+I will try to update and clean up the code the next weeks. So please be calm with me ;)
+
 The following features are needed for this project:
 
 1. Four buzzers are supported
@@ -31,3 +34,5 @@ The Firmware on the Arduino has the following interfaces via the serial console
    Send 'SET_LED %i %i\n' where the first %i indicates the Buzzer(1-4)
    and the second %i indicates the state (0-1)
    
+   
+   Please take a look at the source code to get a better understanding, what I have done here.
